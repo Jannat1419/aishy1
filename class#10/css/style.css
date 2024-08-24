@@ -1,0 +1,105 @@
+.project{
+   
+    background-color: rgb(50, 50, 59);
+}
+.titletext{
+    text-align: center;
+}
+.titletext h6{
+text-align: center;
+font-family: "titillium web", sans-serif;
+font-weight: 600;
+font-size: 21px;
+line-height: 24px;
+color: teal;
+}
+.titletext h3{
+    text-align: center;
+font-family: "titillium web", sans-serif;
+font-weight: 600;
+font-size: 67px;
+line-height: 70px;
+color: white;
+}
+.titletext p{
+    text-align: center;
+    font-family: "poppins", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height:23px;
+    color: white;
+}
+.serviceitem{
+    padding: 90px;
+    text-align: center;
+    transition: .4;
+    border: 2px solid black;
+}
+.servicetext h3{
+  color: white;
+  font-family: "titillium web", sans-serif;
+  font-size: 28px;
+  font-weight: 600;
+  line-height: 32px;
+}
+.servicetext p{
+color: white;
+font-family: "poppins", sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 23px;
+}
+.serviceitem :hover{
+    
+-webkit-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+border-radius: 20px;
+
+}
+
+/***** Section *****/ 
+
+.featuretext h6{
+    text-align: left;
+font-family: "titillium web", sans-serif;
+font-weight: 600;
+font-size: 21px;
+line-height: 24px;
+color: teal;
+}
+.featuretext h3{
+    text-align: left;
+    font-family: "titillium web", sans-serif;
+    font-weight: 600;
+    font-size: 67px;
+    line-height: 70px;
+    color: white;
+}
+
+.featuretext p{
+    text-align: left;
+    font-family: "poppins", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height:23px;
+    color: white;
+
+}
+
+
+
+
+
+
+
+
+
+/***** End Section *****/
+
+
+
+
+
+
+
